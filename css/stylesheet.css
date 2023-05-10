@@ -1,0 +1,36 @@
+body {
+    background-color: lightblue;
+    font-family: 'Quicksand', sans-serif;
+}
+
+.container_1 {
+    display: flex;
+    justify-content: center;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.notice {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+}
+
+label {
+    color: red;
+    font-size: 30px; 
+    padding: 10px;
+}
+
+input, button {
+    padding: 10px;
+    margin: 10px;
+}
+
+.message {
+    display:flex;
+    justify-content: center;
+}
